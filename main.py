@@ -108,3 +108,9 @@ def main():
     if driver:
         # Set target URLs to scrape
         urls = ['https://www.linkedin.com/in/examplepersonslinkedinpage/']
+    if driver:
+        # Set target URLs to scrape
+        urls = ['https://www.linkedin.com/in/examplepersonslinkedinpage/']
+        data = scrape_profiles(driver, urls)
+        save_data_to_json(data, 'profiles.json')
+        print('Data saved to profiles.json')
