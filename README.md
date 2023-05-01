@@ -54,6 +54,11 @@ In your terminal, navigate to the directory where Main.py is located and run the
 The script will log in to LinkedIn,once you've entered your username and password into your main.py file in your text editor, coding app, or with nano or vim, then it will scrape the profiles you've specified (again, in your main.py file, which you should do each time you want to scrape a different target or login with a different username and/or password), and save the data to a profiles.json file in the same directory.
 
  Please note that I cannot guarantee that the target you are researching won't see you looking at their page. Best to use a sock puppet account for your login and password file, so your personal LinkedIN page isn't implicated in the searches you are performing on your target.
+ 
+ <> indicates that the code to copy is within. Please do not copy the <> into your code, as those brackets are used simply as a placeholder.
+ 
+ **If you're looking for some safe, reliable, free DNS proxies, I'd like to recommend the DNSecure and DNSCloak tools (both have web applications or websites, as well as safe, free to use, downloadable apps for smartphones, tablets, desktops, and laptops). 
+ 
 Contributing
 
   If you'd like to contribute to this project, feel free to submit a pull request or open an issue.
